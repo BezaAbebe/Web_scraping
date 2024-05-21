@@ -10,7 +10,7 @@ There are 3 main files
 
   - Mars_weather.csv file
 
-  - part_1_marts_news.ipynb - python script for 
+  - part_1_mars_news.ipynb - python script for mars news
 
-  - part_2_mars_weather.ipynb - puthon scrip for 
+  - part_2_mars_weather.ipynb - puthon scrip for mars weather
 
